@@ -1,0 +1,17 @@
+astroid==1.4.9
+beautifulsoup4==4.5.3
+colorama==0.3.7
+Django>=1.10.5
+enum-compat==0.0.2
+eventlet==0.20.1
+greenlet==0.4.12
+isort==4.2.5
+lazy-object-proxy==1.2.2
+mccabe==0.6.1
+py==1.4.32
+pylint==1.6.5
+pytest==3.0.6
+requests==2.13.0
+six==1.10.0
+virtualenv==15.1.0
+wrapt==1.10.8
